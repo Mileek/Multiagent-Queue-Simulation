@@ -30,6 +30,10 @@ Interface with parameters:
 Real live example:
 ![image](https://github.com/Mileek/Multiagent-Queue-Simulation/assets/95537833/1a1ed5a6-fcdb-4a4a-9ec9-831f39b93d83)
 
+Low chance for self service:
+![image](https://github.com/Mileek/Multiagent-Queue-Simulation/assets/95537833/2efb4acd-cc7b-4a26-a4b1-b28fa6b27b65)
+
+
 Best Example:
 ![image](https://github.com/Mileek/Multiagent-Queue-Simulation/assets/95537833/89ac25f1-c523-45fe-9f83-6970437c1880)
 
